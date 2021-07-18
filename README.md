@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-**manish-d/manish-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on the job I'm assigned to 😆
 - 🌱 I’m currently learning Advanced Swift, Combine, SwiftUI, Algorithms
 - 👯 I’m looking to collaborate on Open source libs focussing on SwiftUI + Combine
