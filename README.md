@@ -7,4 +7,3 @@
 - 💬 Ask me about Football
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I googled how to setup this profile.
