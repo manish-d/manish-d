@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on Open source libs focussing on SwiftUI + Combine
 - 🤔 I’m looking for help with Combine
 - 💬 Ask me about Football
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://www.linkedin.com/in/manish-dhameja/
 - 😄 Pronouns: He/His/Him
